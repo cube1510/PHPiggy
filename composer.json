@@ -1,0 +1,12 @@
+{
+    "name": "jr-macpro/s9-phpiggy",
+    "description": "A PHP app for tracking expences",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
