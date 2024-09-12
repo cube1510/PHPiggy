@@ -8,6 +8,6 @@ class App{
     public function run()
     {
         echo "PHPiggy App is running :)";
-        phpinfo();
+        // phpinfo();
     }
 }
